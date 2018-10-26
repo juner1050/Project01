@@ -18,6 +18,8 @@ public class TestDemo {
 		for (User user : list) {
 			System.out.println(user.getId() + "... " + user.getName() + "... " + user.getPassword());
 		}
+		
+		//测试分支代码
 		context.destroy();
 	}
 

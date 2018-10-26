@@ -21,6 +21,7 @@ public class TestDemo {
 		
 		//测试分支代码
 		context.destroy();
+		System.out.println("测试冲突 --eclipse");
 	}
 
 }

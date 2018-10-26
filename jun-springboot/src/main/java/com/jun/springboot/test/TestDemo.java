@@ -20,6 +20,7 @@ public class TestDemo {
 		}
 		
 		//测试分支代码
+		System.out.println("测试冲突  --sts");
 		context.destroy();
 	}
 
